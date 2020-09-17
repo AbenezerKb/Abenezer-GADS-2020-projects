@@ -1,7 +1,9 @@
 # Abenezer's GADS Projects Submission
 
+
 ## List of Snapshots with 100% completion
-  
+
+
   ### AHYBRID020 Managing Hybrid Clusters using Kubernetes Engine
   ### App Dev Setting up a Development Environment v1.1
   ### App Dev Storing Application Data in Cloud Datastore v1.1
@@ -17,9 +19,12 @@
   ### Predicting Visitor Purchases with a Classification Model with BigQuery ML
   ### Recommending Products Using Cloud SQL and Spark
   ### VPC Networking
-  
+
+
+
 ## List of Translations
-  
-  ## Getting Started with Kubernetes Engine
-  ## Google Cloud Fundamentals Getting Started with App Engine
-  ## Google Cloud Fundamentals Getting Started with Compute Engine
+
+
+  ### Getting Started with Kubernetes Engine
+  ### Google Cloud Fundamentals Getting Started with App Engine
+  ### Google Cloud Fundamentals Getting Started with Compute Engine
